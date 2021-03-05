@@ -9,6 +9,7 @@
 **В результате тестирования выявлены следующие дефекты:**
 
 https://github.com/Anton10011/java1/issues/1#issue-820291481
+https://github.com/Anton10011/java1/issues/2
 
 **Описание процесса тестирования**
 
