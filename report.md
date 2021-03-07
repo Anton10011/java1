@@ -2,24 +2,24 @@
 
 ## Краткое описание
 
-<02.03.2021> - <02.03.2021> было проведено: тестирование установки, функциональное тестирование, тестирование классов эквивалентности и граничных условий приложения KeyValidator.
+<02.03.2021> - <02.03.2021> было проведено: тестирование установки, функциональное тестирование, тестирование классов эквивалентности и граничных условий приложения [KeyValidator](https://github.com/Anton10011/java1/blob/master/KeyValidator.class).
 
 На тестирование затрачено: 0,3 часа
 
 **В результате тестирования выявлены следующие дефекты:**
 
-- В программе KeyValidator не происходит валидация валидных ключей
-- В программе KeyValidator происходит валидация не валидного ключа
+- [В программе KeyValidator не происходит валидация валидных ключей](https://github.com/Anton10011/java1/issues/2)
+- [В программе KeyValidator происходит валидация не валидного ключа](https://github.com/Anton10011/java1/issues/1)
 
 **Описание процесса тестирования**
 
 В процессе тестирования использовались следующие артефакты:
 
-- Инструкция по установке OpenJDK11
-- Руководство использования KeyValidator
-- Программа KeyValidator
+- [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+- [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+- Программа [KeyValidator](https://github.com/Anton10011/java1/blob/master/KeyValidator.class)
 
-В качестве тестовых данных использовались данные из Руководство использования:
+В качестве тестовых данных использовались данные из [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 _Валидные ключи:_
 
